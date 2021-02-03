@@ -4,12 +4,13 @@ root: .  # Is the only page that doesn't follow the pattern /:path/index.html
 permalink: index.html  # Is the only page that doesn't follow the pattern /:path/index.html
 ---
 
-This lesson is an introduction to programming in Python for people with little or no previous 
-programming experience. It uses plotting as its motivating example, and is designed to be used in 
-both [Data Carpentry][dc-lessons] and [Software Carpentry][swc-lessons] workshops. 
-This lesson references [JupyterLab][jupyterlab], but can be taught using a regular Python interpreter 
-as well. Please note that this lesson uses Python 3 rather than Python 2.
+This lesson is an introduction to programming Python for people with
+little or no previous programming experience.  This lesson references
+[JupyterLab][jupyterlab], but can be taught using a regular Python
+interpreter as well. Please note that this lesson uses Python 3 rather
+than Python 2.
 
+<!---
 > ## Under Design
 >
 > **This lesson is currently in its early design stage;
@@ -35,5 +36,6 @@ as well. Please note that this lesson uses Python 3 rather than Python 2.
 >    Please see [the setup instructions][lesson-setup]
 >    for details.
 {: .prereq}
+--->
 
 {% include links.md %}
